@@ -1,8 +1,6 @@
 <h1 >Olá, meu nome é Eduardo, e eu tenho 21 anos.</h1>
 <h3 >Focado atualmente e principalmente no desenvolvimento Front-End</h3>
 
-<p > <img src="https://komarev.com/ghpvc/?username=vortexbrsp&label=Profile%20views&color=0e75b6&style=flat" alt="vortexbrsp" /> </p>
-
 <h3 >Conecte-se comigo:</h3>
 <p >
 <a href="https://linkedin.com/in/eduardolimaco/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/eduardolimaco/" height="30" width="40" /></a>
