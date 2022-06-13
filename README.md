@@ -1,4 +1,4 @@
-<h1 >Olá! meu nome é Eduardo, e eu tenho 21 anos.</h1>
+<h1 align="center">Olá! meu nome é Eduardo, e eu tenho 21 anos.</h1>
 <h3 align="center">Focado atualmente e principalmente no desenvolvimento Front-End</h3>
 
 <h3 align="center">Conecte-se comigo:</h3>
