@@ -11,5 +11,4 @@
 
 <div align="center">
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=vortexbrsp&show_icons=true&locale=en" alt="vortexbrsp" />
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vortexbrsp&layout=compact" />
 </div>
