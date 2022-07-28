@@ -1,4 +1,4 @@
-<h1 align="center">Olá! meu nome é Eduardo, seja bem-vindo ao meu perfil.</h1>
+<h1 align="center">Olá! meu nome é Eduardo, seja bem-vindo ao meu perfil!</h1>
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
